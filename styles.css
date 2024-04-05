@@ -1,0 +1,97 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color:  #FFA500; /* 橘黄色 */
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+}
+
+.company-vision {
+    text-align: center;
+    padding: 50px;
+}
+
+.vision-text {
+    max-width: 800px; /* 设置最大宽度 */
+    margin: 0 auto; /* 水平居中 */
+    font-family: 'Arial', sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.main-vision {
+    font-size: 30px;
+    color: #FFA500; /* 橘黄色 */
+}
+
+.bold {
+    font-weight: bold;
+}
+
+#products {
+    text-align: center;
+}
+
+.products-container {
+    max-width: 800px; /* 设置最大宽度 */
+    margin: 0 auto; /* 水平居中 */
+}
+
+.product-demo {
+    margin-top: 20px;
+}
+
+#team {
+    text-align: center;
+}
+
+.team-container {
+    max-width: 800px; /* 设置最大宽度 */
+    margin: 0 auto; /* 水平居中 */
+}
+
+.team-member {
+    display: inline-block;
+    margin: 20px;
+}
+
+.team-member img {
+    width: 200px; /* 设置图片宽度 */
+    height: 280px; /* 设置图片高度 */
+}
+
+.member-info {
+    margin-top: 10px;
+}
+
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
